@@ -11,7 +11,7 @@ import { useParams } from 'react-router-dom'
   return (
     <div className='play-container'>
         <PlayVideo videoId={videoId}/>
-        <Recomended />
+        <Recomended categoryId={categoryId} />
       
     </div>
   )

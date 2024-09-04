@@ -23,3 +23,11 @@
     font-size: 13px;
     margin-bottom: 5px;
 }
+
+
+@media (max-width:900px) {
+    .recomended{
+        flex-basis: 100%;
+    }
+    
+}

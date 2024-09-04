@@ -11,3 +11,12 @@
     padding-left: 7%;
     
 }
+
+@media (max-width:990px) {
+    .large-container , .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    
+}
